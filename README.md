@@ -1,6 +1,8 @@
 # Project-1---EDA-Telecom-Churn-Analysis
 Churn analysis of a telecom data set
 
+<a href="https://app.daily.dev/Balaram"><img src="https://api.daily.dev/devcards/ab00fcb20aad4f0c9d81a8c6a950d435.png?r=bwb" width="400" alt="Balaram Panigrahy's Dev Card"/></a>
+
 
 Exploratory Data Analysis (EDA) is an approach to analyse data. The first and foremost task that the data analysts does is to view the data and tries to make some sense out of it. Later we figure out what questions we want to ask and how to use the available data to get the answers we need.
 
